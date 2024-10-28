@@ -32,20 +32,31 @@ Using SQL queries, I made relevant computations in order to understand product s
 - Total sales per product: I computed this using the following SQL query
   
     SELECT Product, SUM(Quantity_Units) AS Quantity_Per_Product
+  
     FROM SalesData
+  
     GROUP BY Product
+  
     ORDER BY Quantity_Per_Product desc
+  
 - Number of sales transactions in each region
   
     SELECT Region, COUNT(Quantity_Units) AS Quantity_Per_Region
+  
     FROM SalesData
+  
     GROUP BY Region
+  
     ORDER BY Quantity_Per_Region
+  
 - Highest selling product by total sales revenue
   
      SELECT TOP 1 Product, SUM(Total_Sales_USD) AS Top_Performing_Product
+  
      FROM SalesData
+  
      GROUP BY Product
+  
      ORDER BY Top_Performing_Product
 
 
