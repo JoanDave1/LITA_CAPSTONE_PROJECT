@@ -111,6 +111,34 @@ Using SQL queries, I made relevant computations in order to understand product s
       )
   
 #### Power BI: 
+---------  
+
+### 1.3 Results 
+---------
+
+## Project 2
+### 2.1 Objectives 
+
+The purpose of this analysis is to:
+
+1. Calculate the average subscription duration and identify the most popular subscription types.   
+2. retrieve the total number of customers from each region. 
+3. find the most popular subscription type by the number of customers. 
+4. find customers who canceled their subscription within 6 months. 
+5. calculate the average subscription duration for all customers. 
+6. find customers with subscriptions longer than 12 months. 
+7. calculate total revenue by subscription type. 
+8. find the top 3 regions by subscription cancellations. 
+9. find the total number of active and canceled subscriptions.
+
+### 2.2 Methodology
+#### Microsoft Excel: 
+- *Data Source*: This dataset was provided by the facilitators of Ladies in Tech Africa(LITA) for Data Analysis track.
+- *Data Cleaning*: I imported the dataset into Microsoft Excel. Afterwards, I proceeded to claen my dataset using the "Remove Duplicates" feature available on the "Data" tab to remove values occurring more than once. My dataset of about 75,000+ records was reduced to 33,788 records of sales. There were no other errors present in this dataset. 
+- *Relevant Computations*: Using pivot tables, I was able to identify the popular subscriptions based on the number of customers ans revenue generated as well as the cancellation of each subscription type based on total number of customers.
+
+#### SQL
+
 
 
 
