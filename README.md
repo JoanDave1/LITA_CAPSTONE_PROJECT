@@ -134,7 +134,19 @@ Using SQL queries, I made relevant computations in order to understand product s
 #### Power BI: 
 Power BI (BI meaning Business Intelligence) is a data visualization tool that allows users to connect to various data sources, create interactive visualizations and business intelligence dashboards. I made use of power bi to viaualize my data and extract meaningful insights. 
 
+The images below are visual representations of some of the relavant computations in this dataset. I inserted slicers for the years 2023 and 2024 to show analysis for the different years.
+
+![Screenshot (174)](https://github.com/user-attachments/assets/b4eb55bf-146c-4bc9-aa65-1ce503023dfb)
+***
+![Screenshot (175)](https://github.com/user-attachments/assets/f5951766-6fa0-4846-ba04-d9d0b79dd3cf)
+***
+![Screenshot (177)](https://github.com/user-attachments/assets/ea24de92-a6ea-4f85-886b-f60326f2e219)
+
 ---------  
 
 ### 1.3 Results 
+The analyses conducted in this dataset and power bi visualizations reveal the following:
+
+- 
+
 ---------
