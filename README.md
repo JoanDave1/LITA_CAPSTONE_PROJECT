@@ -147,6 +147,19 @@ The images below are visual representations of some of the relavant computations
 ### 1.3 Results 
 The analyses conducted in this dataset and power bi visualizations reveal the following:
 
-- 
-
+OVERALL SALES REVENUE PERFORMANCE
+ 
+- Total Revenue: Total revenue generated from each product and region in both yaers (2023 and 2024) is 2,101,090.
+- Product Ranking by Revenue:
+    1. Shoes 
+    2. Shirts
+    3. Hats
+    4. Gloves
+    5. Jackets
+    6. Socks
+- Regional sales performance by revenue
+    1. South
+    2. East
+    3. North
+    4. West
 ---------
