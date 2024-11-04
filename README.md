@@ -22,8 +22,22 @@ Using pivot tables in Excel, SQL queries and Power BI, we aim to gain deeper und
 #### Microsoft Excel: 
 - *Data Source*: This dataset was provided by the facilitators of Ladies in Tech Africa(LITA) for Data Analysis track.
 - *Data Cleaning*: I imported the dataset into Microsoft Excel. Afterwards, I proceeded to claen my dataset using the "Remove Duplicates" feature available on the "Data" tab to remove values occurring more than once. My dataset of about 50,000 records was reduced to 9,922 records of sales. There were no other errors present in this dataset. I noticed, however, that the dataset was missing a revenue column to show the revenue generated from each transaction at various dates. I proceeded to add a revenue column by using the "Product" function to multiply the Quantity(Units) column by the UnitPrice to get our Total Sales Revenue. The image below is a visualization of the columns I multiplied and the additional column added for the result.
-
+  
 ![image](https://github.com/user-attachments/assets/c1421759-a714-4639-a890-912c8899c499)
+
+- *Data Summary*: Using pivot tables, I was able to summarize my data and identify relationship between columns as well as make relevant computations.
+
+The pivot table below shows the revenue generated from sales of each product and quantity ordered for each
+
+![image](https://github.com/user-attachments/assets/8b7112ad-b746-4009-b7b1-3f1714b0812f)
+
+This table below shows the total revenue generated from each product and region per month
+
+![image](https://github.com/user-attachments/assets/561d70ad-7252-480e-979a-42b9db063fa8)
+
+This pivot table visualizes the quantity of products ordered in each region.
+
+![image](https://github.com/user-attachments/assets/0cf930ff-afde-4f44-8562-9edcb9de2808)
 
 - *Relevant Computations*: I calculated the average sales for each product as well as total revenue generated from each region. According to our analysis and from image 1 below, the product "gloves" has the highest number of quantity sold on the average. I also calculated the total revenue by region and from image 2 below, South region generates the highest number of revenue.
 
