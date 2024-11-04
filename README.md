@@ -1,9 +1,8 @@
-# LITA_CAPSTONE_PROJECT
+# LITA_CAPSTONE_PROJECT 1
 ## Introduction
-This is the final project for the Ladies in Tech Africa(LITA)- Data Analysis Track. It contains two datasets (Sales Data and Customer Data) of which we are to conduct and visualize our analysis. The Sales data contains 50,000 records of sales transactions, including order ID, customer ID, product, region, order date, quantity ordered, unit price and total sales revenue. The Customer data contains information about 75,000+ customers and their subscription details for TV services, including customer ID, name, region, subscription type, subscription start and end dates, cancellation status and revenue generated. 
+This is the first half of the final project for the Ladies in Tech Africa(LITA)- Data Analysis Track. We have a dataset containing Sales Data and Customer Data for TV subscription of which we are to conduct and visualize our analysis. For project 1, we will be working on the Sales data which contains 50,000 records of sales transactions, including order ID, customer ID, product, region, order date, quantity ordered, unit price and total sales revenue.
 
 -----------
-## Project 1
 ### 1.1 Objectives
 The purposes of this analysis is to: 
 1. Calculate metrics such as average sales per product and total revenue by region.  
