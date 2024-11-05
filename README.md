@@ -172,6 +172,7 @@ OVERALL SALES REVENUE PERFORMANCE
      5. Socks 7921
      6. Jacket 5452
 
+- The month "February" has the highest number of quantity ordered
 
 
 
