@@ -148,18 +148,36 @@ The images below are visual representations of some of the relavant computations
 The analyses conducted in this dataset and power bi visualizations reveal the following:
 
 OVERALL SALES REVENUE PERFORMANCE
- 
-- Total Revenue: Total revenue generated from each product and region in both yaers (2023 and 2024) is 2,101,090.
+
+- Total number of customers is 9,921
+- Total Revenue: Total revenue generated from each product and region in both years (2023 and 2024) is 2,101,090.
 - Product Ranking by Revenue:
-    1. Shoes 
-    2. Shirts
-    3. Hats
-    4. Gloves
-    5. Jackets
-    6. Socks
+    1. Shoes 613,380
+    2. Shirts 485,600
+    3. Hats 316,195
+    4. Gloves 296,900
+    5. Jackets 208,230
+    6. Socks 180,785
 - Regional sales performance by revenue
-    1. South
-    2. East
-    3. North
-    4. West
+    1. South 927,820
+    2. East 485,925
+    3. North 387,
+    4. West 300,345
+
+- Product ranking by quantity ordered
+     1. Hat 15929
+     2. Shoes 14402
+     3. Shirt 12388
+     4. Gloves 12369
+     5. Socks 7921
+     6. Jacket 5452
+
+
+
+
+
+  
+
+
+
 ---------
