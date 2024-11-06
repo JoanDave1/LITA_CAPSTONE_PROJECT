@@ -163,7 +163,8 @@ OVERALL SALES REVENUE PERFORMANCE
     2. East 485,925
     3. North 387,
     4. West 300,345
-
+  
+----
 OVERALL SALES QUANTITY PERFORMANCE
 
 - Product performance by quantity ordered
@@ -175,7 +176,8 @@ OVERALL SALES QUANTITY PERFORMANCE
      6. Jacket 5,452
 
 - The month "February" has the highest number of quantity ordered
-  
+
+-----
 INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
 
 - Insights:
