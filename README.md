@@ -188,8 +188,24 @@ INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
      3. Investigate reasons behind the high demand for hats in the East region to better understand customer preferences and behavior.
      4. Ensure adequate stock levels of hats, particularly in the East region to meet demand and prevent stockouts. 
 
+-----
+INSIGHTS AND RECOMMENDATIONS REGARDING REVENUE GENERATION
+
+While Hats have the highest number of quantity ordered, shoes generate the highest number of revenue. Also the South region has the highest amount of revenue compared to the initial East region which has the highest number of quantity ordered. 
+
+- Insights:
+     1. Shoes are likely to be priced higher than hats resulting in higher revenue despite lower quantity sales.
+     2. Shoes may have higher profit margins than hats contributing to higher revenue.
+     3. Customers may be willing to pay more for shoes than hats, driving up revenue.
+     4. The South region may have a higher population density or income levels that contribute to increased spending power.
+     5. Consumer preferences and spending may also be a reason for higher revenue in the south region.
+ 
+- Recommendations:
+     1. Since shoes generate more revenue, we could consider expanding the shoe product line and introduce more styles.
+     2. Review pricing strategies to ensure optimal revenue generation across all products.
+     3. Analyze consumer behavior and preferences to inform product development and marketing strategies.
   
-- The month "February" has the highest number of quantity ordered
+  
 
 
 
