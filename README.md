@@ -164,7 +164,7 @@ OVERALL SALES REVENUE PERFORMANCE
     3. North 387,
     4. West 300,345
 
-- Product ranking by quantity ordered
+OVERALL SALES QUANTITY PERFORMANCE
      1. Hat 15929
      2. Shoes 14402
      3. Shirt 12388
@@ -172,7 +172,24 @@ OVERALL SALES REVENUE PERFORMANCE
      5. Socks 7921
      6. Jacket 5452
 
+INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
+
+- Insights:
+     1. Hats are the most popular product, followed by shoes , shirts, gloves, socks and jackets indicating a high demand for headwear and footwear.
+     2. According to the pivot table above, hats are ordered more frequently in the east region, suggesting a regional preference or cultural influence. It could also indicate a cultural or fashion trend.
+
+- Recommendations:
+     1. Focus
+
+  
 - The month "February" has the highest number of quantity ordered
+
+
+
+
+
+
+
 
 
 
