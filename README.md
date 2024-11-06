@@ -165,13 +165,15 @@ OVERALL SALES REVENUE PERFORMANCE
     4. West 300,345
 
 OVERALL SALES QUANTITY PERFORMANCE
-     1. Hat 15929
-     2. Shoes 14402
-     3. Shirt 12388
-     4. Gloves 12369
-     5. Socks 7921
-     6. Jacket 5452
 
+- Product performance by quantity ordered
+     1. Hat 15,929
+     2. Shoes 14,402
+     3. Shirt 12,388
+     4. Gloves 12,369
+     5. Socks 7,921
+     6. Jacket 5,452
+        
 INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
 
 - Insights:
@@ -179,7 +181,10 @@ INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
      2. According to the pivot table above, hats are ordered more frequently in the east region, suggesting a regional preference or cultural influence. It could also indicate a cultural or fashion trend.
 
 - Recommendations:
-     1. Focus
+     1. Focus marketing efforts on hats and shoes, considering their popularity.
+     2. Consider expanding the hats product line and introducing new styles.
+     3. Investigate reasons behind the high demand for hats in the East region to better understand customer preferences and behavior.
+     4. Ensure adequate stock levels of hats, particularly in the East region to meet demand and prevent stockouts. 
 
   
 - The month "February" has the highest number of quantity ordered
