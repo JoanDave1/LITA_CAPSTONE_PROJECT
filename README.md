@@ -173,7 +173,9 @@ OVERALL SALES QUANTITY PERFORMANCE
      4. Gloves 12,369
      5. Socks 7,921
      6. Jacket 5,452
-        
+
+- The month "February" has the highest number of quantity ordered
+  
 INSIGHTS AND RECOMMENDATIONS REGARDING SALES QUANTITY
 
 - Insights:
