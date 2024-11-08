@@ -161,7 +161,7 @@ OVERALL SALES REVENUE PERFORMANCE
 - Regional sales performance by revenue
     1. South 927,820
     2. East 485,925
-    3. North 387,
+    3. North 387,000
     4. West 300,345
   
 ----
